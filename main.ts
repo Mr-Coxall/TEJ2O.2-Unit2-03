@@ -5,4 +5,4 @@
  * This program does basic math.
 */
 
-basic.showString('Hello, World!')
+basic.showString('2^3=' + (2**3).toString())
